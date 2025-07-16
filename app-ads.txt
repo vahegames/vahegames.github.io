@@ -1,0 +1,2 @@
+mintegral.com, YOUR-ID, DIRECT, CERT-ID
+themediagrid.com, NG9STC, DIRECT, 35d5010d7789b49d
