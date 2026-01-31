@@ -4,6 +4,7 @@ facebook.com, 358565496994419, RESELLER, c3e20eee3f780d68
 google.com, pub-2529778839986208, DIRECT, f08c47fec0942fa0
 applovin.com, a1034e6ab1080c727974647c65ba0fbb, DIRECT
 adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
+rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
 contextweb.com , 562615, RESELLER, 89ff185a4c4e857c
 gamaigroup.com, 423056, RESELLER
