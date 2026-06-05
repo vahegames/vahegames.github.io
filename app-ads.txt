@@ -16,6 +16,7 @@ triplelift.com, 14127, RESELLER, 6c33edb13117fd86
 risecodes.com, 685c25b72cb7980001e4ff27, RESELLER
 opera.com, pub9166643429696, RESELLER, 55a0c5fd61378de3
 video.unrulymedia.com, 894246135, RESELLER
+mintegral.com, 43908, DIRECT, 0aeed750c80d6423
 media.net, 8CUUQ286L, RESELLER
 bigo.sg, 885, RESELLER
 openx.com, 561470659, RESELLER, 6a698e2ec38604c6
